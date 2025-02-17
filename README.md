@@ -28,4 +28,5 @@ After extraction, I cleaned and structured the data using Pandas and NumPy to ma
 
 ### 🛠 Tech Stack & Skills Used
 ✅ Python (Beautiful Soup, Pandas, NumPy) – Web Scraping & Data Cleaning
+
 ✅ Power BI, DAX, Data Modelling, Data Visualization, Business Intelligence
