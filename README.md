@@ -1,7 +1,8 @@
 # Fortune-500-Analysis
 ## Fortune 500 Analysis (Power BI Dashboard – 2024 Data)
 
-📌 Project Overview
+📌 Project Overview:
+
 This project presents a detailed Power BI dashboard analysing Fortune 500 companies (2024 data) based on Revenue, Profit, Employee Count, and Assets. It helps visualize business insights, trends, and comparisons across various financial metrics.
 
 ### Data Extraction & Preparation
